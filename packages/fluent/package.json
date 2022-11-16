@@ -1,0 +1,12 @@
+{
+  "name": "fluent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
